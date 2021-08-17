@@ -1,0 +1,33 @@
+{
+    "women-products":
+    [
+        {   "name":"nivea",
+            "price": 11,
+            "paypal-buyNow":"https://exemple.buy",
+            "photo":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg" ,
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
+                    ],
+            "description":"#"
+        },
+        {   "name":"chanel",
+            "price": 55,
+            "paypal-buyNow":"https://exemple.buy",
+            "photo":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg" ,
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
+                    ],
+            "description":"#"
+        },
+        {   "name":"bracellet",
+            "price": 120,
+            "paypal-buyNow":"https://exemple.buy",
+            "photo":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg" ,
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
+                    ],
+            "description":"#"
+        }
+        
+    ]
+}
