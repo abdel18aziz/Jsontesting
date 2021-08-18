@@ -3,7 +3,7 @@
     [
     
         {
-        "id":"AAAA"
+        "id":"AAAA",
         "name":"Oreal 6studio",
         "price": 15,
         "paypal-buyNow":"https://exemple.buy",
@@ -15,7 +15,7 @@
         },
 
         {
-            "id":"AAAB"
+            "id":"AAAB",
             "name":"Oreal man expert",
             "price": 25,
             "paypal-buyNow":"https://exemple.buy",
@@ -27,7 +27,7 @@
         },
 
         {   
-            "id":"AAAC"
+            "id":"AAAC",
             "name":"Oreal BarberClub",
             "price": 30,
             "paypal-buyNow":"https://exemple.buy",
