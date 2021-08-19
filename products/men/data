@@ -7,7 +7,8 @@
         "name":"Oreal 6studio",
         "price": 15,
         "paypal-buyNow":"https://exemple.buy",
-        "photo":[ "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg" ,
+        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg",
+        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
                     "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
                     "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
                 ],
@@ -19,9 +20,10 @@
             "name":"Oreal man expert",
             "price": 25,
             "paypal-buyNow":"https://exemple.buy",
-            "photo":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
-                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg" ,
-                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
+            "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
+            "additionalphotos":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filfters:fill(white)/product/07/751223/1.jpg" 
                     ],
             "description":"#"
         },
@@ -31,8 +33,9 @@
             "name":"Oreal BarberClub",
             "price": 30,
             "paypal-buyNow":"https://exemple.buy",
-            "photo":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
-                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg" ,
+            "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+            "additionalphotos":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
                         "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
                     ],
             "description":"#"
