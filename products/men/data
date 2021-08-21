@@ -12,14 +12,7 @@
                     "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/5.jpg",
                     "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/6.jpg" 
                 ],
-        "description":"UpperMaterial:Mesh.
-Lining:Anti-odor.
-Outsole:Rubber.
-Feature:Breathable.
-Decoration:None.
-Pattern Type:None
-Color: Black Blue
-UK Size:6-9"
+        "description":"UpperMaterial:Mesh. Lining:Anti-odor. Outsole:Rubber. Feature:Breathable. Decoration:None. Pattern Type:None Color: Black Blue UK Size:6-9"
         },
     
         {
@@ -32,9 +25,7 @@ UK Size:6-9"
                     "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/3.jpg",
                     "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/4.jpg" 
                 ],
-        "description":"L'emballage est susceptible de changer en fonction du stock disponible
-Styler votre barbe et vos cheveux avec le pommade de Men Expert Barber Club!
-Ce baume Ø£Â  l'huile de cØ£Â¨dre permet de donner forme Ø£Â"
+        "description":"L'emballage est susceptible de changer en fonction du stock disponible Styler votre barbe et vos cheveux avec le pommade de Men Expert Barber Club! Ce baume Ø£Â  l'huile de cØ£Â¨dre permet de donner forme Ø£Â"
         },    
     
         {
@@ -51,7 +42,7 @@ Ce baume Ø£Â  l'huile de cØ£Â¨dre permet de donner forme Ø£Â"
         },
 
         {
-            "id":"AAAB",
+            "id":"AAAD",
             "name":"Oreal man expert",
             "price": 25,
             "paypal-buyNow":"https://exemple.buy",
@@ -64,7 +55,7 @@ Ce baume Ø£Â  l'huile de cØ£Â¨dre permet de donner forme Ø£Â"
         },
 
         {   
-            "id":"AAAC",
+            "id":"AAAE",
             "name":"Oreal BarberClub",
             "price": 30,
             "paypal-buyNow":"https://exemple.buy",
