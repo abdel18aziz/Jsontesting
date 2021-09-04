@@ -1,34 +1,35 @@
-{
-    "women-products":
+{  "menproducts" : 
+                
     [
-        {
+    
+    {
         "id":"AAAA",
-        "name":"Trendyol Collection Black High Waist Skinny Jeans TWOSS20JE0302",
-        "price": 95,
-        "paypal-buyNow":"https://www.jumia.ma/trendyol-collection-black-high-waist-skinny-jeans-twoss20je0302-33768221.html",
-        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/286733/1.jpg",
-        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/286733/2.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/286733/3.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/286733/4.jpg?",
-                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/12/286733/5.jpg?2218"
+        "name":"Fashion Men's Air Mesh Sneakers Breathable Hiking Casual Shoes -Black",
+        "price": 225,
+        "paypal-buyNow":"https://www.jumia.ma/fashion-mens-air-mesh-sneakers-breathable-hiking-casual-shoes-black-21182176.html",
+        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/1.jpg",
+        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/2.jpg",
+                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/5.jpg",
+                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/6.jpg" 
                 ],
-                "details":"Model Dimensions: Height: 1.78, Bust: 82, Waist: 62, Hips: 88 The product on the Model is S / 36 size. 98% Cotton 2% Elastane, Woven Fabric Buttoned and Zippered Closure, High Waist, Skinny Our products will be sent with the TRENDYOL label.",
-        "description":"Model Dimensions: Height: 1.78, Bust: 82, Waist: 62, Hips: 88 The product on the Model is S / 36 size. 98% Cotton 2% Elastane, Woven Fabric Buttoned and Zippered Closure, High Waist, Skinny Our products will be sent with the TRENDYOL label."
+        "description":"UpperMaterial:Mesh. Lining:Anti-odor. Outsole:Rubber. Feature:Breathable. Decoration:None. Pattern Type:None Color: Black Blue UK Size:6-9"
         },
-        
+    
         {
         "id":"AAAB",
-        "name":"Trendyol Collection Blue Front Buttoned High Waist shine Jeans TWOSS20JE0111",
-        "price": 115,
-        "paypal-buyNow":"https://www.jumia.ma/trendyol-collection-blue-front-buttoned-high-waist-shine-jeans-twoss20je0111-33907694.html",
-        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/49/670933/1.jpg",
-        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/49/670933/3.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/49/670933/4.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
+        "name":"L'Oréal Paris Men Expert - Barber Club crème capillaire Hommes - 75ml",
+        "price": 68,
+        "paypal-buyNow":"https://www.jumia.ma/loreal-paris-men-expert-barber-club-creme-capillaire-hommes-75mlbr-32212218.html",
+        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/1.jpg",
+        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/2.jpg",
+                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/3.jpg",
+                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/4.jpg" 
                 ],
-        "description":"Model Dimensions: Height: 1.80, Chest: 87, Waist: 60, Hip: 90 The product on the Model is S / 36 size. 98% Cotton 2% Elastane, Woven Fabric Button Closure, Front Button, High Waist, shine Internal Length Size: 85 cm Our products will be sent with the TRENDYOL label."
-        },{
-        "id":"AAAA",
+        "description":"L'emballage est susceptible de changer en fonction du stock disponible Styler votre barbe et vos cheveux avec le pommade de Men Expert Barber Club! Ce baume Ø£Â  l'huile de cØ£Â¨dre permet de donner forme Ø£Â"
+        },    
+    
+        {
+        "id":"AAAC",
         "name":"Oreal 6studio",
         "price": 15,
         "paypal-buyNow":"https://exemple.buy",
@@ -38,7 +39,33 @@
                     "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
                 ],
         "description":"#"
+        },
+
+        {
+            "id":"AAAD",
+            "name":"Oreal man expert",
+            "price": 25,
+            "paypal-buyNow":"https://exemple.buy",
+            "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
+            "additionalphotos":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
+                    ],
+            "description":"#"
+        },
+
+        {   
+            "id":"AAAE",
+            "name":"Oreal BarberClub",
+            "price": 30,
+            "paypal-buyNow":"https://exemple.buy",
+            "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+            "additionalphotos":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
+                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
+                    ],
+            "description":"#"
         }
-        
+
     ]
 }
