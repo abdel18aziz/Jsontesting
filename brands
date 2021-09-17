@@ -1,0 +1,13 @@
+{"brands":
+
+[
+  {"name":"rolex",
+    "img":"https://cdn.worldvectorlogo.com/logos/rolex.svg"
+   },
+    
+  {"name":"nike",
+   "img":"https://cdn.worldvectorlogo.com/logos/nike-8.svg"
+   }
+
+ ]
+}
