@@ -1,12 +1,16 @@
 {"brands":
 
 [
-  {"name":"rolex",
+  {"name":"Rolex",
     "img":"https://cdn.worldvectorlogo.com/logos/rolex.svg"
    },
     
-  {"name":"nike",
+  {"name":"Nike",
    "img":"https://cdn.worldvectorlogo.com/logos/nike-8.svg"
+   },
+   {
+   "name":"Phillip Plein",
+   "img":"https://cdn.worldvectorlogo.com/logos/phillip-plein.svg"
    }
 
  ]
