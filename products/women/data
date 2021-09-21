@@ -1,71 +1,34 @@
 {  "womenproducts" : 
                 
     [
-    
-    {
-        "id":"AAAA",
-        "name":"Fashion Men's Air Mesh Sneakers Breathable Hiking Casual Shoes -Black",
-        "price": 225,
-        "paypal-buyNow":"https://www.jumia.ma/fashion-mens-air-mesh-sneakers-breathable-hiking-casual-shoes-black-21182176.html",
-        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/1.jpg",
-        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/2.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/5.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/6.jpg" 
-                ],
-        "description":"UpperMaterial:Mesh. Lining:Anti-odor. Outsole:Rubber. Feature:Breathable. Decoration:None. Pattern Type:None Color: Black Blue UK Size:6-9"
-        },
-    
         {
-        "id":"AAAB",
-        "name":"L'Oréal Paris Men Expert - Barber Club crème capillaire Hommes - 75ml",
-        "price": 68,
-        "paypal-buyNow":"https://www.jumia.ma/loreal-paris-men-expert-barber-club-creme-capillaire-hommes-75mlbr-32212218.html",
-        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/1.jpg",
-        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/2.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/3.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/81/221223/4.jpg" 
-                ],
-        "description":"L'emballage est susceptible de changer en fonction du stock disponible Styler votre barbe et vos cheveux avec le pommade de Men Expert Barber Club! Ce baume Ø£Â  l'huile de cØ£Â¨dre permet de donner forme Ø£Â"
-        },    
-    
-        {
-        "id":"AAAC",
-        "name":"Oreal 6studio",
-        "price": 15,
-        "paypal-buyNow":"https://exemple.buy",
-        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg",
-        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
-                    "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
-                ],
-        "description":"#"
-        },
-
-        {
-            "id":"AAAD",
-            "name":"Oreal man expert",
-            "price": 25,
-            "paypal-buyNow":"https://exemple.buy",
-            "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
-            "additionalphotos":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
-                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
-                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
-                    ],
-            "description":"#"
-        },
-
-        {   
-            "id":"AAAE",
-            "name":"Oreal BarberClub",
-            "price": 30,
-            "paypal-buyNow":"https://exemple.buy",
-            "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
-            "additionalphotos":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
-                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
-                        "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
-                    ],
-            "description":"#"
-        }
-
+                        "id":"AAAD",
+                        "name":"Oreal man expert",
+                        "price": 25,
+                        "oldprice":50,
+                        "paypal-buyNow":"https://exemple.buy",
+                        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
+                        "additionalphotos":["https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/221223/1.jpg",
+                                    "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/221223/1.jpg",
+                                    "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/751223/1.jpg" 
+                                ],
+                        "description":"#"
+                    },
+                    
+                    {
+                        "id":"AAAE",
+                        "name":"Fashion Men's Air Mesh Sneakers Breathable Hiking Casual Shoes -Black",
+                        "price": 225,
+                        "oldprice":600,
+                        "paypal-buyNow":"https://www.jumia.ma/fashion-mens-air-mesh-sneakers-breathable-hiking-casual-shoes-black-21182176.html",
+                        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/1.jpg",
+                        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/2.jpg",
+                                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/5.jpg",
+                                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/6.jpg" 
+                                ],
+                        "description":"UpperMaterial:Mesh. Lining:Anti-odor. Outsole:Rubber. Feature:Breathable. Decoration:None. Pattern Type:None Color: Black Blue UK Size:6-9"
+                        }
+                    
+   
     ]
 }
