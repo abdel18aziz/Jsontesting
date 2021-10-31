@@ -4,19 +4,20 @@
     
     {
                         "id":"AAAA",
-                        "name":"Fashion Men's Air Mesh Sneakers Breathable Hiking Casual Shoes -Black",
-                        "price": 225,
-                        "oldprice":280,
-                        "paypal-buyNow":"https://www.jumia.ma/fashion-mens-air-mesh-sneakers-breathable-hiking-casual-shoes-black-21182176.html",
-                        "mainphoto":"https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/1.jpg",
-                        "additionalphotos":[ "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/2.jpg",
-                                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/5.jpg",
-                                    "https://ma.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/67/128112/6.jpg" 
+                        "name":"Timex Waterbury 34mm Green -Silver",
+                        "price": 149,
+                        "oldprice":220,
+                        "mainphoto":"https://cdn.discordapp.com/attachments/793592736795852840/904412364877733898/TW2T87200_1800x1800.jpg",
+                        "additionalphotos":[ "https://cdn.discordapp.com/attachments/793592736795852840/904412611876118658/TW1800.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/904412836309127168/TW2T87200_I_1800x1800.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/904412946699018240/TW2T87200_D_1800x1800.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/904413139725066310/TW2T87200_C_1800x1800.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/904413239021039616/TW2T87200_B_1800x1800.jpg" 
                                 ],
-                                "availableSizes":["S","M","L","XL","XXL"],
-                        "availableColors":["BLACK","BROWN","RED","WHITE"],
-                       "description":"L'emballage est susceptible de changer en fonction du stock disponible Styler votre barbe et vos cheveux avec le pommade de Men Expert Barber Club! Ce baume Ø£Â  l'huile de cØ£Â¨dre permet de donner forme Ø£Â",
-"specification":"<p><span>Case: Hand Finished 316L Stainless Steel with Anodized Aluminum Bezel Ring</span><br><span>Movement: Miyota 82S7 Self-Winding Mechanical, 21 Jewels, 21600 BPH, 42 Hour Power Reserve, Made in Japan.</span><br><span>Functions: Retrograde-style Halo Hour and Minute Hands, Day/Night Indicator, Running Seconds Display</span><br><span>Crystal: Ultra Scratch-resistant Sapphire Glass</span><br><span>Water Resistance: 5 ATM</span><br><span>Dimensions: 46mm x 13mm</span><br><span>Strap: American Full-grain Leather from Horween with Built-in, Quick Release Springbar System</span><br><span>Weight: 3.7oz / 105 grams</span></p>"
+                                "availableSizes":["Default"],
+                        "availableColors":["SILVER"],
+                        "description":"There’s strength in tradition. We’re honoring our 1854 roots as the Waterbury Clock Company and the strong women who created our earliest timepieces. A testament to our commitment to craftsmanship and honoring our original watchmakers this watch with its stainless steel case and bracelet, green jewel tiger-eye-patterned dial,and an elegant fluted stainless steel bezel creates a new way to wear one of our most well-loved watches.",
+                        "specification":"Case Width: 34 mm<br>Case Material: Stainless Steel<br>Crystal/Lens: Mineral Glass<br>Dial Color: Green<br>Water Resistance: 50 meters<br>Strap and Lug Width: 16 mm<br>"
                         },
                     
                         {
