@@ -1,7 +1,24 @@
 {  "womenproducts" : 
                 
     [
-        {
+                  
+                  {
+                        "id":"AAAC",
+                        "name":"Timex Metropolitan Transcend 38mm Rose Gold Mother of Pearl",
+                        "price": 98,
+                        "oldprice":150,
+                        "mainphoto":"https://cdn.discordapp.com/attachments/793592736795852840/904431922292350986/TW2T35300_1800x1800.jpg",
+                        "additionalphotos":[ "https://cdn.discordapp.com/attachments/793592736795852840/904431930047598653/timex-metropolitan-TW2T35300VQ_1800x1800.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/904431931792445450/TW2T35300_B_1800x1800.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/904431935676370984/TW2T35300_C_1800x1800.jpg" 
+                                ],
+                                "availableSizes":["Default"],
+                        "availableColors":["Rose Gold"],
+                       "description":"With an elegant mother of pearl dial and a blush leather strap, this ultra-thin rose gold watch case offers a touch of simplicity and sophistication to your look. You will always be a step ahead with our Transcend collection.",
+                        "specification":"Case Width: 38 mm<br> Case Material: Brass<br> Band Color: Pink<br> Buckle/Clasp: Buckle<br> Case Color: Rose Gold<br> Case Finish: Polished<br> Case Shape: Round<br> Case Size: Full Size<br> Crystal/Lens: Mineral Glass<br> Dial Color: Mother of Pearl<br> Dial Markings: Markers (Full)<br> Watch Movement: Quartz Analog<br> Water Resistance: 30 meters<br> Case Height: 6.5 mm<br> Strap and Lug Width: 16 mm<br> "
+                        },
+                  
+                  {
                         "id":"AAAD",
                         "name":"Oreal man expert",
                         "price": 25,
