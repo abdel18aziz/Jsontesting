@@ -120,6 +120,34 @@
 
                 ]
             }
+        },
+        
+        
+        {
+            "name":"CHANEL",
+            "img":"https://cdn.worldvectorlogo.com/logos/chanel-2.svg",
+            "thisbrandproducts":{
+                "MEN":[],
+                "WOMEN":[
+                        {
+                        "id":"AAAG",
+                        "name":"Chanel CLASSIC FLAP BAG PYTHON LEATHER -Blue",
+                        "price": 950,
+                        "oldprice":"",
+                        "mainphoto":"https://cdn.discordapp.com/attachments/793592736795852840/907668639392596059/photo_2021-06-20_11-18-18.jpg",
+                        "additionalphotos":[ "https://cdn.discordapp.com/attachments/793592736795852840/907668639392596059/photo_2021-06-20_11-18-18.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/907668661211385876/photo_2021-06-20_11-18-18_2.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/907668685341216828/photo_2021-06-20_11-18-18_4.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/907668697391448064/photo_2021-06-20_11-18-18_3.jpg" 
+                                ],
+                        "availableSizes":["Small"],
+                        "availableColors":["Blue"],
+                        "description":"Chanel's Classic Flap Bags are iconic and monumental in the history of fashion. Hence, this one is a buy that is worth every bit of your splurge. Exquisitely crafted from python skin, it bears their signature label on the leather interior and the iconic CC turn lock on the flap. The piece has silver-tone hardware, and a lovely chain-leather link just so you can easily parade it. This flap bag is the ultimate day to night handbag and even today, it is eyed by women worldwide. Cease the wait and make this luxurious bag yours today!",
+                        "specification":"-SIZE<br>Length:20 cm<br>Height:14 cm<br>Width:7 cm<br>Style: Shoulder Bag<br>Material: Python<br> Color: Blue<br>Brand: CHANEL<br>"
+                        }
+
+                ]
+            }
         }
 
 
