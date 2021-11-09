@@ -34,7 +34,38 @@
                         "availableColors":["Bronze Brown"],
                         "description":"This striking new dial surface uses laser perforations and Timex's INDIGLO backlight to create a truly unique multifunction chronograph watch. The bronze matte-finish case lets the dial shine, and the perforated leather band matches the innovative dial.",
                         "specification":"INDIGLO Night-Light with Night-Mode<br> Chronograph Measures to 1/20th Second<br> Date<br> Case Material: Low Lead Brass<br> Band Color: Brown<br> Buckle/Clasp: Buckle<br> Case Color: Bronze<br> Case Finish: Matte<br> Case Shape: Round<br> Case Size: Full Size<br> Crystal/Lens: Mineral Glass<br> Dial Color: Gold<br> Dial Markings: Markers (Full)<br> Watch Movement: Quartz Analog<br> Water Resistance: 30 meters<br> Band Material: Leather<br> Case Height: 11.5 mm<br> Strap and Lug Width: 20 mm<br> Case Width: 41 mm<br>"
-                        }
+                        },
+                        
+                         {   
+                        "id":"AAAD",
+                        "name":"AUDEMARS PIGUETRoyal Oak Automatic Silver Dial Stainless Steel Unisex Watch.",
+                        "price": 250,
+                        "oldprice": "",
+                        "mainphoto":"https://cdn.discordapp.com/attachments/793592736795852840/907647051788062760/audemars-piguet-royal-oak-automatic-silver-dial-stainless-steel-unisex-watch-15450stoo1256st01-15450stoo1256st01.jpg",
+                        "additionalphotos":["https://cdn.discordapp.com/attachments/793592736795852840/907647051788062760/audemars-piguet-royal-oak-automatic-silver-dial-stainless-steel-unisex-watch-15450stoo1256st01-15450stoo1256st01.jpg",
+                                    "https://media.discordapp.net/attachments/793592736795852840/907647055181271080/audemars-piguet-royal-oak-automatic-silver-dial-stainless-steel-unisex-watch-15450stoo1256st01-15450stoo1256st01_2.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/907647068410093598/audemars-piguet-royal-oak-automatic-silver-dial-stainless-steel-unisex-watch-15450stoo1256st01-15450stoo1256st01_3.jpg" 
+                                ],
+                                "availableSizes":["42mm"],
+                        "availableColors":["SILVER"],
+                        "description":"Silver-tone stainless steel case with a silver-tone stainless steel bracelet.With silver-tone hands and stick hour markers. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands and markers. Date display at the 3 o'clock position. Audemars Piguet Calibre 3120 Automatic movement, and has a power reserve of approximately 60 hours. Scratch resistant sapphire crystal. Screw locked crown. Skeleton case back. Deployment with push button release clasp.Functions: date, hour, minute, second. Luxury watch style. Watch label: Swiss Made.",
+                        "specification":"-Dimensions:<br>Diameter [mm]:42<br>Thickness [mm]:12<br>-Strap / bracelet<br>Strap type:Steel bracelet<br>Clasp:Folding<br>Strap / Bracelet Color:Silver Frame<br>Body material:Steel<br>Body color:Silver<br>-Clock face<br>Dial color:Silver<br>Dial type:Textured<br>"
+                    },
+                    {
+                        "id":"AAAF",
+                        "name":"AUDEMARS PIGUETRoyal Oak Blue Dial Automatic Men's Watch.",
+                        "price": 250,
+                        "oldprice":"",
+                        "mainphoto":"https://cdn.discordapp.com/attachments/793592736795852840/907655019812241408/audemars-piguet-royal-oak-blue-dial-automatic-mens-watch-15500st.oo.1220st.01--.jpg",
+                        "additionalphotos":["https://cdn.discordapp.com/attachments/793592736795852840/907655019812241408/audemars-piguet-royal-oak-blue-dial-automatic-mens-watch-15500st.oo.1220st.01--.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/907655026607013948/audemars-piguet-royal-oak-blue-dial-automatic-mens-watch-15500st.oo.1220st.01--_2.jpg",
+                                    "https://cdn.discordapp.com/attachments/793592736795852840/907655043124174878/audemars-piguet-royal-oak-blue-dial-automatic-mens-watch-15500st.oo.1220st.01--_3.jpg" 
+                                ],
+                                 "availableSizes":["41mm"],
+                        "availableColors":["Blue Dial"],
+                        "description":"Silver-tone stainless steel case with a silver-tone stainless steel bracelet. 8 screws fixed silver-tone stainless steel bezel. Blue dial with white gold hands and index hour markers. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands. Date display at the 3 o'clock position. Audemars Piguet Calibre 4302 Automatic movement, Scratch resistant sapphire crystal. Screw down crown. Octagon case shape, case size: 41 mm, case thickness: 10.4 mm. Folding clasp. Water resistant at 50 meters / 165 feet. Functions: date, hour, minute, second. Luxury watch style. Watch label: Swiss Made. Audemars Piguet Royal Oak Blue Dial Automatic Men's Watch.",
+                        "specification":"-INFORMATION<br>BRAND:Audemars Piguet<br>SERIES:Royal Oak<br>GENDER:Men's<br>WATCH LABEL:Swiss Made<br>MOVEMENT:Automatic<br>-CASE<br>CASE SIZE:41 mm<br>CASE THICKNESS:10.4 mm<br>CASE MATERIAL:Stainless Steel<br>CASE COLOR:Silver-tone<br>CASE SHAPE:Octagon<br>-BAND<br>BAND MATERIAL:Stainless Steel<br>BAND TYPE:Bracelet<br>BAND COLOR:Silver-tone<br>CLASP:Folding<br>-DIAL<br>DIAL COLOR:Blue<br>TYPE:Analog<br>BEZEL COLOR:Silver-tone<br>BEZEL MATERIAL:Stainless Steel<br>"
+                    }
 
 
                         
